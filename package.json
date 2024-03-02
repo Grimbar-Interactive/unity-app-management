@@ -1,0 +1,18 @@
+{
+    "name": "com.grimbarinteractive.unity-app-management",
+    "displayName": "Unity App Management",
+    "version": "0.1.0",
+    "unity": "2022.3",
+    "description": "App management components and utilities for Unity.",
+    "keywords": [ "state", "game", "games", "unity" ],
+    "category": "unity",
+    "dependencies": {
+          "com.grimbarinteractive.unity-utilities": "1.2.0",
+          "com.grimbarinteractive.unity-variables": "1.1.6"
+    },
+    "author": {
+          "name": "Grimbar Interactive",
+          "email": "jacob@grimbar.dev",
+          "url": "https://grimbarinteractive.com/"
+    }
+}
